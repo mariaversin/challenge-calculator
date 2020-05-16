@@ -1,0 +1,90 @@
+.title {
+    width: 490px;
+    background-color: rgba(245, 215, 159, 0.897);
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+h1{
+    color: rgba(112, 128, 144, 0.911);
+    text-align: center;
+    font-family: 'Bungee Outline', cursive;
+    color: rgba(48, 47, 47, 0.8);
+    margin-top: 50px;
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+body {
+    background-image: linear-gradient(rgba(243, 141, 163, 0.856), rgb(235, 174, 82));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Bellota', cursive;
+}
+
+.calculator {
+    background-color: rgba(236, 128, 109, 0.918);
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 7px;
+    padding: 30px 8px 50px 15px;
+    box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.43);
+}
+
+.parteSuperior {
+    display: flex;
+    padding: 0 0px 10px;
+}
+
+
+#AC {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 30px;
+    width: 80px;
+    height: 40px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Questrial', sans-serif;
+    box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.43);
+    background-color: rgba(240, 134, 64, 0.973);
+}
+
+#textoPantalla {
+    float: right; 
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.432); 
+    border-radius: 3px;
+    width: 290px;
+    height: 40px;
+    border-radius: 4px;
+    text-align: right;
+    padding: 10px 10px 5px;
+    font-size: 20px;
+}
+
+p input {
+    
+    height: 39px; 
+    width: 70px;
+    padding: 10px 10px 6px;
+    text-align: center; 
+    font-family: 'Questrial', sans-serif;
+    margin: 0 0px 0px 40px;
+    border-radius: 7px;
+    background-color: whitesmoke;
+    cursor: pointer;
+    font-size: 17px;
+    box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.43);
+}
+
+input:hover , #AC:hover {
+    background-color: rgb(119, 121, 121); 
+    color: #FFFFFF;
+    border-radius: 7px;
+}
+
+
