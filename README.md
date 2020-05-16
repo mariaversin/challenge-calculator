@@ -2,4 +2,4 @@
 
 ## Basic Calculator
 
-![calculator](https://github.com/mariaversin/challenge-calculator/blob/master/calculator.png)
+![calculator](https://github.com/mariaversin/challenge-calculator/blob/master/images/calculator.png)
