@@ -1,7 +1,6 @@
 
 window.onload = function(){ 
     pantalla=document.getElementById("textoPantalla"); 
-    document.onkeydown = teclado; 
     }
 
 // definir variables
